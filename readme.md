@@ -1,6 +1,12 @@
-<h1 style="text-align: center;">Portifólio web atualizado</h1>
+<h1 align="center" style="font-weight: bold;">Portifólio Tayna Simões atual 👩🏻‍💻</h1>
 
-<div style="text-align: center;">
+
+<div align="center">
+    🔗 ACESSE O PROJETO ATUAL: <a target="_blank" href="https://portifoliotayna-tayna0202s-projects.vercel.app/">Link do Portifólio</a>
+</div>
+
+
+<div align="center">
     <img src="https://skillicons.dev/icons?i=html" />
     <img src="https://skillicons.dev/icons?i=css" />
     <img src="https://skillicons.dev/icons?i=js" />
