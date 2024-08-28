@@ -1,14 +1,12 @@
-# Criando uma Landing Page para Portifólio
+<h1 style="text-align: center;">Portifólio web atualizado</h1>
 
-<hr>
+<div style="text-align: center;">
+    <img src="https://skillicons.dev/icons?i=html" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=js" />
+</div>
 
-<h3>Criando uma Land Page para um Portifólio, treinar tags <b>Html</b> e estilização com <b>CSS</b></h3>
-
-<img src="/img/capa.png">
-
-<h3>Tamplete disponivel</h3>
-
-<img src="/img/Inicial.png">
+<img src="/img/SITE.png">
 
 <h3>Dispositivo Movel</h3>
 
