@@ -16,7 +16,7 @@
 
 <h3>Dispositivo Movel</h3>
 
-<img src="/img/mobile.png">
+<img src="/img/MOBILE.png">
 
 <hr>
 
