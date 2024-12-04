@@ -134,21 +134,18 @@ li {
     transition: 1s;
 }
 
-#servicos,
-#projetos{
+#servicos{
     display: flex;
     align-items: center;
     justify-content: center;
     padding: 20px;
 }
 
-#servicos #container_principal,
-#projetos #container_principal{
+#servicos #container_principal{
     width: 60%;
 }
 
-#servicos .container,
-#projetos .container {
+#servicos .container {
     display: flex;
     flex-direction: column;
     width: 100%;
@@ -162,27 +159,32 @@ li {
     margin-left: 30px;
 }
 
-.containerTerceiro{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-
 .container:hover {
     background-color: var(--cor-hover);
     transition: 0.3s ease-in-out;
 }
 
-#servicos .container img,
-#projetos .container img {
+#servicos .container img {
     border-radius: 20px;
 }
 
-#servicos .container:hover,
-#projetos .container:hover{
+#servicos .container:hover{
     box-shadow: 2px 2px 2px 5px rgba(212, 1, 184, 0.75);
     transition: 0.5s ease-in-out;
+}
+
+#projetos{
+    width: 550px;
+    padding: 20px;
+}
+
+#projetos #container_principal{
+    width: 100%;
+    height: 100%;
+}
+
+#mobile{
+    display: none;
 }
 
 #buttonMobile{
@@ -343,8 +345,7 @@ li {
         font-size: 20px;
     }
 
-    #servicos #container_principal,
-    #projetos #container_principal{
+    #servicos #container_principal{
         width: 100%;
         height: 100%;
     }
@@ -353,6 +354,19 @@ li {
         margin: 0;
         margin-top: 10px;
         text-align: center;
+    }
+
+    .desktop{
+        display: none;
+    }
+
+    #mobile{
+        display: block;
+    }
+
+    #projetos{
+        padding: 0px;
+        margin: -10px;
     }
 
     .bn632-hover{
